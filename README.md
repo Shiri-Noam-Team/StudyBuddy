@@ -12,3 +12,6 @@ In this project, we designed **StudyBuddy**, a tablet-optimized application aime
 - [Figma Design](https://www.figma.com/design/adUglIBOZpbeqgf9MpiR19/Study-Buddy?node-id=597-35&t=kEG6JU01DIjrAUif-1).
 - [Landing Page](https://noammaoz1.wixsite.com/studybuddy-8).
 - [Demo Video](https://youtu.be/dsfidupip4I).
+
+
+![Image](https://github.com/user-attachments/assets/ee847f0f-688f-4d2f-b050-6058360d7eb4)
