@@ -1,4 +1,4 @@
-# StudyBuddy
+# ✨🎓 StudyBuddy
 
 This project is a **UI/UX design project** completed as part of the course *Introduction to Human-Computer Interaction Design*.  
 
